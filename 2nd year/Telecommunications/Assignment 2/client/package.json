@@ -51,7 +51,7 @@
         "dotenv": "^5.0.0",
         "express": "^4.16.4",
         "express-session": "^1.15.6",
-        "express-validator": "^5.3.0",
+        "express-validator": "^6.5.0",
         "express-vue": "^5.8.2",
         "fs-web": "^1.0.1",
         "glob": "^7.1.3",
