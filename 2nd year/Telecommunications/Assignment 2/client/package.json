@@ -56,7 +56,7 @@
         "fs-web": "^1.0.1",
         "glob": "^7.1.3",
         "global": "^4.3.1",
-        "gulp-ava": "^0.19.0",
+        "gulp-ava": "^2.0.0",
         "helmet": "^3.15.0",
         "i18n": "^0.8.3",
         "jquery": "^3.3.1",
@@ -66,7 +66,7 @@
         "morgan": "^1.9.1",
         "node-monkey": "^1.0.0-beta.5",
         "node-sass": "^4.11.0",
-        "npm": "^6.4.1",
+        "npm": "^7.0.0",
         "serve-favicon": "^2.5.0",
         "vue-dropdowns": "^1.0.6"
     },
